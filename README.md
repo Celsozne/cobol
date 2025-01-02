@@ -1,5 +1,29 @@
 # cobol
 Estudos em Cobol/Estudios en cobol
 
-  #dia 1
-    Maybe some learn about the structures of cobol's system,    
+
+level number
+
+01 - record description entry
+
+02 to 49 - group and elementary items
+
+66 - rename clause items
+
+77 - items wich cannot be subdivided
+
+88 - condition name entry
+
+
+Picture clause
+9-Numeric 	
+
+A-Alphabetic
+
+X-Alphanumeric
+
+V-Implicit Decimal
+
+S-Sign
+ 	
+P-Assumed Decimal
