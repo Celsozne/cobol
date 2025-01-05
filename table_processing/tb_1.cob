@@ -1,0 +1,13 @@
+       IDENTIFICATION DIVISION.
+       PROGRAM-ID. TB1.
+       
+       DATA DIVISION.
+           WORKING-STORAGE SECTION.
+           01 WS-TABLE.
+                05 WS-A PIC A(10) VALUE 'TUTORIAL' OCCURS 5.
+
+        PROCEDURE DIVISION.
+           DISPLAY "ONE-D TABLE: " WS-TABLE.
+        STOP RUN.
+
+
